@@ -6,7 +6,7 @@ RS,A2,7,5,,RNA removal,RNA Removal Solution,temp module
 SS1,A3,7,10,,Second Strand Synthesis,Second Strand Synthesis Mix 1,
 SS2,B3,7,4,,Second Strand Synthesis,Second Strand Synthesis Mix 2,
 E2,C3,7,1,,Second Strand Synthesis,Enzyme Mix 2,
-PB,A1,5,16,,Purification 1,Purification Beads,magnetic module
+PB,D2,7,16,,Purification 1,Purification Beads,magnetic module
 EB1_1,A2,5,40,,Purification 1,Purification Solution,
 PS,B1,5,56,,Purification 1,Elution Buffer,low input 48 uL
 ETOH,A3,5,120,,Purification 1,Ethanol,3 times
@@ -14,7 +14,7 @@ EB1_2,A2,5,20,,Purification 1,Elution Buffer,elution
 PCR,A4,7,7,,Endpoint PCR,PCR Mix,
 E3,B4,7,1,,Endpoint PCR,Enzyme Mix 3,
 BC,,6,5,,Endpoint PCR,Barcode Plate (96-well plate),BC is on 96 well plate
-PB,A1,5,30,,Purification 2,Purification Beads,
+PB,D2,7,30,,Purification 2,Purification Beads,
 EB2_1,A2,5,30,,Purification 2,Purification Solution,
 PS,B1,5,30,,Purification 2,Elution Buffer,
 ETOH,A4,5,120,,Purification 2,Ethanol,2 times
